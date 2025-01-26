@@ -1,0 +1,75 @@
+20250121	22:03:26	f66d9adc-bbff-4b2f-b0f7-80871101e33c	undefined function header(field, val) {
+  if (arguments.length === 2) {
+    var value = Array.isArray(val)
+      ? val.map(String)
+      : String(val);
+
+    // add charset to content-type
+    if (field.toLowerCase() === 'content-type') {
+      if (Array.isArray(value)) {
+        throw new TypeError('Content-Type cannot be set to an Array');
+      }
+      if (!charsetRegExp.test(value)) {
+        var charset = mime.charsets.lookup(value.split(';')[0]);
+        if (charset) value += '; charset=' + charset.toLowerCase();
+      }
+    }
+
+    this.setHeader(field, value);
+  } else {
+    for (var key in field) {
+      this.set(key, field[key]);
+    }
+  }
+  return this;
+} undefined
+20250121	22:04:00	99764924-e0bf-4aa1-95d3-cb1b6f0000dd	undefined function header(field, val) {
+  if (arguments.length === 2) {
+    var value = Array.isArray(val)
+      ? val.map(String)
+      : String(val);
+
+    // add charset to content-type
+    if (field.toLowerCase() === 'content-type') {
+      if (Array.isArray(value)) {
+        throw new TypeError('Content-Type cannot be set to an Array');
+      }
+      if (!charsetRegExp.test(value)) {
+        var charset = mime.charsets.lookup(value.split(';')[0]);
+        if (charset) value += '; charset=' + charset.toLowerCase();
+      }
+    }
+
+    this.setHeader(field, value);
+  } else {
+    for (var key in field) {
+      this.set(key, field[key]);
+    }
+  }
+  return this;
+} undefined
+20250121	22:04:13	df4f1bc3-d117-4288-9389-999ef41d24e1	undefined function header(field, val) {
+  if (arguments.length === 2) {
+    var value = Array.isArray(val)
+      ? val.map(String)
+      : String(val);
+
+    // add charset to content-type
+    if (field.toLowerCase() === 'content-type') {
+      if (Array.isArray(value)) {
+        throw new TypeError('Content-Type cannot be set to an Array');
+      }
+      if (!charsetRegExp.test(value)) {
+        var charset = mime.charsets.lookup(value.split(';')[0]);
+        if (charset) value += '; charset=' + charset.toLowerCase();
+      }
+    }
+
+    this.setHeader(field, value);
+  } else {
+    for (var key in field) {
+      this.set(key, field[key]);
+    }
+  }
+  return this;
+} undefined

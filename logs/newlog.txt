@@ -1,0 +1,27 @@
+20241206	06:47:16	37eea9f2-a29a-4d66-a898-c59c5fc4b3d4	GET undefined /
+20241206	06:51:24	4dc5f3aa-c7c4-4528-be16-4198b641a978	GET undefined /
+20241206	06:51:28	58eb3127-1711-43e4-9235-54b01e6f86b9	GET undefined /hgsgsgs
+20241206	06:51:57	0302a635-41e6-4470-9810-b073cc52b623	GET undefined /
+20241206	06:52:12	939a07ab-443a-4d5a-9f6a-827a5089b6a2	GET undefined /hgsgsgskkdd
+20241206	06:54:44	e0791d93-5560-4109-9d75-cfb7a890cbcc	GET undefined /hgsgsgskkdd
+20241206	06:54:44	2ded2755-a146-456e-9c55-5cc9a28e3747	GET undefined /hgsgsgskkdd
+20241206	06:54:44	b3a6fe26-e771-49c5-8e3f-e5ea8f72c53f	GET undefined /hgsgsgskkdd
+20241206	06:54:45	b47ba270-4a4f-44a2-9af2-c60f5496216f	GET undefined /hgsgsgskkdd
+20241206	06:55:48	3d25b0f9-0445-4549-a59c-4498eb8a8d32	GET undefined /hgsgsgskkdd
+20241206	06:55:50	b6587321-c039-4b68-b832-bd61d7504879	GET undefined /hgsgsgs
+20241206	07:16:15	50babf66-b902-423f-be07-3d30afe043e3	Error :not found
+20241206	07:16:15	9e4bdfe8-6496-43ab-bf6f-6b9870820c8d	Error :not found
+20241206	07:17:11	c5167ed9-510a-44a8-a183-b9532cb8ae3a	Error :not found
+20241206	07:17:11	38e2ffdf-ec84-4775-b016-869bb5fef5b8	Error :not found
+20241222	22:57:32	71bae8c1-8b39-45f8-929c-d2d2d1264be4	Error : not found
+20241222	22:57:32	71ccaabd-dc1f-44a8-9ff5-16e6744158b7	Error : not found
+20241222	22:57:49	aaa1d237-d142-49f2-bd62-00c8d3506527	Error : not found
+20241222	22:57:49	e0bb9acd-d0cf-4b45-934f-c8cd435ea544	Error : not found
+20241222	23:00:46	cb26fff8-c6b1-46bc-b1e6-37551cb83a6a	Error : not found
+20241222	23:00:47	91ac2467-021f-4f0b-b11a-7f59ef22b405	Error : not found
+20241222	23:02:39	1cae742c-6dc3-45f8-a553-418c975ebd94	Error : not found
+20241222	23:02:39	fc577595-938f-4452-90ae-9b10cb0eebab	Error : not found
+20241222	23:04:54	eab3a33d-8aae-4603-aad0-b405e7c32182	Error : not found
+20241222	23:04:54	1357f111-08e8-4f0e-b73e-3a78841c5ab7	Error : not found
+20241222	23:06:12	bbec96cb-d008-41a4-ad86-009bf2fd9089	Error : not found
+20241223	00:26:02	5060cca6-8529-4e3a-8077-029681b985d8	Error : ENOENT: no such file or directory, stat 'C:\Users\MY PC\Downloads\nodejs_web_server-main\routes\views\index.html'

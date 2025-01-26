@@ -1,0 +1,32 @@
+20241205	07:08:49	cee3e6bf-baef-4819-8b58-09873b104f24	GET 	 undefined	 /
+20241205	07:08:57	e875f666-b797-45dc-a8a9-e8e2bd20b88a	GET 	 undefined	 /
+20241205	07:08:57	a1069622-afa8-4e36-aeac-25bd6d6f8703	GET 	 undefined	 /
+20241205	07:08:57	f69d3f77-ac00-41b8-9f72-94b8b142c297	GET 	 undefined	 /
+20241205	07:08:57	ea86b6a3-c990-47f5-ae30-c5652cd0bb31	GET 	 undefined	 /
+20241205	07:08:57	49353cb0-64bb-4896-92fa-ed7a22681a91	GET 	 undefined	 /
+20241205	07:08:58	025ca16a-4f7a-4880-8571-c45ccacbd1c0	GET 	 undefined	 /
+20250121	22:05:20	ba8ced8c-e469-4997-89a1-219af67cbd4a	undefined function header(field, val) {
+  if (arguments.length === 2) {
+    var value = Array.isArray(val)
+      ? val.map(String)
+      : String(val);
+
+    // add charset to content-type
+    if (field.toLowerCase() === 'content-type') {
+      if (Array.isArray(value)) {
+        throw new TypeError('Content-Type cannot be set to an Array');
+      }
+      if (!charsetRegExp.test(value)) {
+        var charset = mime.charsets.lookup(value.split(';')[0]);
+        if (charset) value += '; charset=' + charset.toLowerCase();
+      }
+    }
+
+    this.setHeader(field, value);
+  } else {
+    for (var key in field) {
+      this.set(key, field[key]);
+    }
+  }
+  return this;
+} undefined

@@ -1,0 +1,39 @@
+20241205	04:34:45	a336d771-eecc-491c-85e0-d88d0054a91a	Error :cors not found
+20241205	04:34:45	cb4a4d03-ecf0-4da6-bcbe-8b52e38c2ba2	Error :cors not found
+20241205	04:35:26	be63fc7f-415b-442d-9358-ab9da12b2462	Error :cors not found
+20241205	04:35:26	a751cb64-b45e-407e-8f13-c0725bf1dbb9	Error :cors not found
+20241205	04:35:53	a7cce0a3-be9b-4555-a34b-eb4711488386	Error :cors not found
+20241205	04:45:04	409176ba-122d-45d0-ab80-198d8a2ed10a	Error :cors not found
+20241205	04:45:04	db854e6b-bdeb-460a-a02b-70066ccdcb29	Error :cors not found
+20241205	04:56:19	042b7cd0-60e4-4703-9502-6e1d6d5bf45d	TypeError :req.sendFile is not a function
+20241205	07:31:46	85ddab16-e166-49da-b00e-ecdd22008a69	Error :cors not found
+20241205	07:31:46	30ed18cc-b027-4d7b-80dc-adab1f6c9c17	Error :cors not found
+20241205	07:34:22	10de48a5-8956-4198-9345-9ee5bf6c208d	Error :cors not found
+20241205	07:34:22	3ecee56a-d632-46e5-ae5c-50983e069fcf	Error :cors not found
+20241205	07:38:57	2ddb6ffc-0d01-4d24-b1e2-293a3bd99192	Error :cors not found
+20241205	07:38:57	7eadeb24-fcc9-46f9-b7f9-5cd793e778d8	Error :cors not found
+20241205	07:39:16	cae4e4e2-7e11-4a60-ad37-9559c71a58eb	Error :cors not found
+20241205	07:39:16	7fa2befd-670d-4c8f-895e-e06237a61333	Error :cors not found
+20241205	07:39:28	3757b0bf-ce12-4e52-a75a-ef6e270c158d	Error :cors not found
+20241205	07:39:28	6507f8da-4d55-46dc-8f32-be2ff02b0dcc	Error :cors not found
+20241205	07:39:52	1f705526-fbf1-4509-b395-a48032763fd6	Error :cors not found
+20241205	07:39:52	e6c47431-356f-4a14-94b6-6bb96a9afb15	Error :cors not found
+20241205	07:40:00	9680cc9c-6fde-41dd-98b6-5997b30feb2b	Error :cors not found
+20241205	07:40:00	4312d79e-7ebf-4c05-9dd5-318513119661	Error :cors not found
+20241205	07:41:32	75bbc5fb-56ea-4b17-916a-397557b25004	Error :cors not found
+20241205	07:41:32	6e3c9459-3891-4086-bc10-7116c13ddc35	Error :cors not found
+20241205	07:42:06	c9863568-ae5f-4a50-aef6-9c16d5f3d20e	Error :cors not found
+20241205	07:42:06	a23cb58c-0894-4b62-b573-d5219888488c	Error :cors not found
+20241205	07:42:14	5cb027af-2516-4964-8330-8a853f90e1eb	Error :cors not found
+20241205	07:42:14	a30b81e1-e8f5-4acb-ba24-05c1fd523a87	Error :cors not found
+20241205	07:43:38	9778407a-a9a5-4708-b3c9-b61595f9c558	Error :cors not found
+20241205	07:43:38	f6503029-7321-4ea7-b64a-591f831c6239	Error :cors not found
+20241205	07:49:31	fc58fb50-b8c9-4278-9b75-b9bb9b4d6a3c	Error :not found
+20241205	22:31:10	b5aa29d7-5e1a-4f62-8627-c3a2794e8c04	Error :cors not found
+20241205	22:31:11	a0bdfca8-cd4b-4cdf-bceb-19e12083a7cf	Error :cors not found
+20241205	23:07:56	c041fbd6-254d-4e0d-87f1-72a389fc96f7	Error :ENOENT: no such file or directory, stat 'C:\Users\MY PC\Downloads\nodejs_web_server-main\routes\views\index.html'
+20241205	23:27:43	55c4ef3a-7788-4027-8913-fa87fda0b3ad	Error :ENOENT: no such file or directory, stat 'C:\Users\MY PC\Downloads\views\404.html'
+20241205	23:28:01	511c0010-d809-4101-8949-7ca63eb2e31b	Error :ENOENT: no such file or directory, stat 'C:\Users\MY PC\Downloads\views\404.html'
+20241205	23:28:28	36badffe-54e4-426b-8e30-bbd47508d6ae	Error :ENOENT: no such file or directory, stat 'C:\Users\MY PC\Downloads\views\404.html'
+20241206	05:22:04	e5e3e32c-76dd-49c3-a48a-016e5dc6ab83	TypeError :req.json is not a function
+20241206	05:25:14	77935018-817e-431d-85cc-c00dd736fae4	TypeError :req.json is not a function
